@@ -173,8 +173,8 @@ img.one {
 }
 
 img.two {
-    animation: two 5s ease-in-out infinite forwards;
-    -webkit-animation: two 5s ease-in-out infinite forwards;
+    animation: two 4.5s ease-in-out infinite forwards;
+    -webkit-animation: two 4.5s ease-in-out infinite forwards;
 }
 
 @keyframes two {
